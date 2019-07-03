@@ -7,14 +7,14 @@
 + NCS2 or Movidius
 
 # How to use
-## Liblary 
+## Library 
 + [OpenVINO](https://qiita.com/shinmura0/items/318c775544fae64ae0db)
 + [dtw](https://github.com/pierre-rouanet/dtw)
 + [pykalman](https://github.com/pykalman/pykalman)
 + [GPy](https://github.com/SheffieldML/GPy)
 + [GPyOpt](https://github.com/SheffieldML/GPyOpt)
 
-##Procedure
+## Procedure
 + Download this repository
 + Command as follows
 + python3 main.py -wd 640 -ht 480 -vidfps 15
@@ -24,4 +24,4 @@
 + Push [e] to finish recording.
 + Result is saved as [result_1.avi] in the folder.
 
-Click [here](https://qiita.com/shinmura0/items/09ed686466f3d7141d07) for details(Japanese)
+Click [here](https://qiita.com/shinmura0/items/09ed686466f3d7141d07) for details(Japanese).
